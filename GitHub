@@ -1,0 +1,7 @@
+public class Pull
+{
+  Public static void main(String args[])
+  {
+    System.Out.Println("Successfully Pulled");
+   }
+ }
